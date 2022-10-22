@@ -1,0 +1,77 @@
+,index,ID,rodada,hora,dia,mandante,visitante,vencedor
+0,5367,5368,1,16:01,Sabado,Flamengo,Sport,Flamengo
+2,5388,5389,3,20:59,Quarta-feira,Flamengo,Chapecoense,-
+4,5415,5416,5,20:59,Quinta-feira,Flamengo,Vitoria,Flamengo
+5,5423,5424,6,16:02,Domingo,Flamengo,Palmeiras,Palmeiras
+8,5452,5453,9,16:00,Domingo,Flamengo,Sao Paulo,-
+10,5469,5470,11,16:00,Domingo,Flamengo,Fluminense,Fluminense
+11,5476,5477,12,19:30,Quarta-feira,Flamengo,Internacional,Flamengo
+13,5500,5501,14,11:00,Domingo,Flamengo,Atletico-MG,Flamengo
+15,5525,5526,16,20:00,Segunda-feira,Flamengo,America-MG,Flamengo
+18,5546,5547,19,18:30,Sabado,Flamengo,Athletico-PR,Flamengo
+20,5568,5569,21,11:01,Domingo,Flamengo,Gremio,Flamengo
+22,5591,5592,23,21:47,Quarta-feira,Flamengo,Ponte Preta,Flamengo
+25,5617,5618,26,11:03,Domingo,Flamengo,Figueirense,Flamengo
+26,5633,5634,27,16:02,Domingo,Flamengo,Cruzeiro,Flamengo
+28,5653,5654,29,17:00,Domingo,Flamengo,Santa Cruz,Flamengo
+31,5678,5679,32,17:00,Domingo,Flamengo,Corinthians,-
+33,5696,5697,34,17:00,Sabado,Flamengo,Botafogo-RJ,-
+35,5722,5723,36,19:29,Domingo,Flamengo,Coritiba,-
+36,5731,5732,37,17:00,Domingo,Flamengo,Santos,Flamengo
+38,5745,5746,1,16:01,Sabado,Flamengo,Atletico-MG,-
+41,5778,5779,4,11:01,Domingo,Flamengo,Botafogo-RJ,-
+44,5809,5810,7,21:00,Quarta-feira,Flamengo,Ponte Preta,Flamengo
+46,5834,5835,9,21:00,Quinta-feira,Flamengo,Chapecoense,Flamengo
+48,5850,5851,11,16:01,Domingo,Flamengo,Sao Paulo,Flamengo
+50,5873,5874,13,19:31,Quinta-feira,Flamengo,Gremio,Gremio
+52,5891,5892,15,21:45,Quarta-feira,Flamengo,Palmeiras,-
+53,5896,5897,16,19:00,Sabado,Flamengo,Coritiba,Flamengo
+56,5927,5928,19,11:01,Domingo,Flamengo,Vitoria,Vitoria
+58,5946,5947,21,19:00,Sabado,Flamengo,Atletico-GO,Flamengo
+59,5960,5961,22,16:00,Domingo,Flamengo,Athletico-PR,Flamengo
+61,5982,5983,24,16:00,Domingo,Flamengo,Sport,Flamengo
+62,5985,5986,25,18:59,Sabado,Flamengo,Avai,-
+64,6012,6023,27,17:01,Quinta-feira,Flamengo,Fluminense,-
+66,6033,6034,29,21:00,Quinta-feira,Flamengo,Bahia,Flamengo
+68,6046,6047,31,19:00,Sabado,Flamengo,Vasco,-
+70,6070,6071,33,21:45,Quarta-feira,Flamengo,Cruzeiro,Flamengo
+73,6096,6097,36,17:00,Domingo,Flamengo,Corinthians,Flamengo
+74,6112,6113,37,19:00,Domingo,Flamengo,Santos,Santos
+77,6136,6137,2,19:00,Sabado,Flamengo,America-MG,Flamengo
+79,6158,6159,4,16:00,Domingo,Flamengo,Internacional,Flamengo
+81,6176,6177,6,19:01,Sabado,Flamengo,Vasco,-
+83,6202,6203,8,16:00,Quinta-feira,Flamengo,Bahia,Flamengo
+84,6209,6210,9,16:00,Domingo,Flamengo,Corinthians,Flamengo
+86,6233,6234,11,19:00,Domingo,Flamengo,Parana,Flamengo
+88,6249,6250,13,21:46,Quarta-feira,Flamengo,Sao Paulo,Sao Paulo
+89,6255,6256,14,19:00,Sabado,Flamengo,Botafogo-RJ,Flamengo
+91,6278,6279,16,16:00,Domingo,Flamengo,Sport,Flamengo
+93,6300,6311,18,16:00,Domingo,Flamengo,Cruzeiro,Flamengo
+95,6322,6303,20,19:30,Quinta-feira,Flamengo,Vitoria,Flamengo
+97,6339,6340,22,11:01,Domingo,Flamengo,Ceara,Ceara
+99,6357,6358,24,21:27,Sabado,Flamengo,Chapecoense,Flamengo
+101,6378,6379,26,16:00,Domingo,Flamengo,Atletico-MG,Flamengo
+104,6405,6406,29,17:00,Sabado,Flamengo,Fluminense,Flamengo
+106,6431,6432,31,19:00,Sabado,Flamengo,Palmeiras,-
+109,6462,6463,34,17:00,Quinta-feira,Flamengo,Santos,Flamengo
+111,6479,6480,36,21:45,Quarta-feira,Flamengo,Gremio,Flamengo
+113,6495,6496,38,19:00,Sabado,Flamengo,Athletico-PR,Athletico-PR
+114,6508,6509,1,21:00,Sabado,Flamengo,Cruzeiro,Flamengo
+117,6538,6539,4,11:00,Domingo,Flamengo,Chapecoense,Flamengo
+119,6557,6558,6,16:02,Domingo,Flamengo,Athletico-PR,Flamengo
+120,6565,6566,7,16:01,Sabado,Flamengo,Fortaleza,Flamengo
+123,6599,6600,10,11:00,Domingo,Flamengo,Goias,Flamengo
+125,6620,6621,12,15:59,Domingo,Flamengo,Botafogo-RJ,Flamengo
+127,6637,6638,14,18:59,Sabado,Flamengo,Gremio,Flamengo
+130,6670,6671,17,16:00,Domingo,Flamengo,Palmeiras,Flamengo
+132,6685,6686,19,17:01,Sabado,Flamengo,Santos,Flamengo
+134,6707,6708,21,21:30,Quarta-feira,Flamengo,Internacional,Flamengo
+135,6715,6716,22,19:00,Sabado,Flamengo,Sao Paulo,-
+137,6744,6745,24,20:00,Quinta-feira,Flamengo,Atletico-MG,Flamengo
+140,6770,6771,27,18:00,Domingo,Flamengo,Fluminense,Flamengo
+141,6784,6785,28,19:00,Domingo,Flamengo,CSA,Flamengo
+143,6799,6800,30,16:00,Domingo,Flamengo,Corinthians,Flamengo
+145,6820,6821,32,18:00,Domingo,Flamengo,Bahia,Flamengo
+147,6835,6826,34,21:30,Quarta-feira,Flamengo,Vasco,-
+148,6849,6850,35,21:31,Quarta-feira,Flamengo,Ceara,Flamengo
+150,6874,6875,37,20:03,Quinta-feira,Flamengo,Avai,Flamengo
